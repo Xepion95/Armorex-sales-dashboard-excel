@@ -1,5 +1,5 @@
 # ArmoreX Sales Dashboard in Excel
-
+![ArmoreX Dashboard](dashboard-main.png)
 This project presents an interactive Excel dashboard created for a fictional company, ArmoreX.
 
 ## Project overview
